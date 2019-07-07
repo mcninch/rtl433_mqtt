@@ -3,7 +3,7 @@ Publish rtl_433 data to mqtt broker
 
 Docker Settings:
 
---priviledged
+--privileged
 
 -e MQTT_HOST=\<mqtt broker url\>
 
