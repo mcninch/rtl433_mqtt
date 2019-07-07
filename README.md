@@ -1,2 +1,2 @@
-# rtl_433_mqtt
-Publich rtl-433 data to mqtt broker
+# rtl433_mqtt
+Publish rtl_433 data to mqtt broker
